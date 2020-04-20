@@ -14,12 +14,12 @@ h1{color:black;font-weight:bold;text-align:center;margin-bottom:35px;font-size:3
 /*large devices*/
 @media(min-width:992px)
 {
- .col-lg-4{width:33.33%;clear:left;}
+ .col-lg-4{width:33.33%;}
 }
 /*medium devices*/
 @media(min-width:768px)and(max-width:991px)
 {
- .col-md-6{width:50%;clear:left;}
+ .col-md-6{width:50%;}
  .col-md-12{clear:both}
 }
 /*small devices*/
