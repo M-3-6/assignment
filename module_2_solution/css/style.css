@@ -8,18 +8,18 @@ h1{color:black;font-weight:bold;text-align:center;margin-bottom:35px;font-size:3
 .col-md-6{position:relative;}
 .col-md-12{position:relative;}
 .col-sm-12{position:relative;}
-#chicken{background color:red;}
+#chicken{background-color:red;}
 #beef{background-color:yellow;}
 #sushi{background-color:green;}
 /*large devices*/
 @media(min-width:992px)
 {
- .col-lg-4{width:33.33%;float:left;}
+ .col-lg-4{width:33.33%;clear:left;}
 }
 /*medium devices*/
 @media(min-width:768px)and(max-width:991px)
 {
- .col-md-6{width:50%;float:left;}
+ .col-md-6{width:50%;clear:left;}
  .col-md-12{clear:both}
 }
 /*small devices*/
