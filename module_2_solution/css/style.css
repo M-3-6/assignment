@@ -3,23 +3,23 @@ h1{color:black;font-weight:bold;text-align:center;margin-bottom:35px;font-size:3
 .row{margin:10px;padding:5px;}
 .section{background-color:lightblue;padding:0px 0px 15px 15px;border:solid black 5px;margin-bottom:10px ;}
 .content{color:black;font-style:italic;font-size:20px;}
-.title{font-size:25px;border:solid black 5px;position:absolute;float:right;}
+.title{font-size:25px;border:solid black 5px;position:absolute;float:right;margin-top:0;right:0;}
 .col-lg-4{position:relative;}
 .col-md-6{position:relative;}
 .col-md-12{position:relative;}
 .col-sm-12{position:relative;}
-#chicken{background-color:red;position:absolute ;float:right;}
+#chicken{background-color:red;position:absolute ; float:right;}
 #beef{background-color:yellow;position:absolute ;float:right;}
 #sushi{background-color:green;position:absolute ;float:right;}
 /*large devices*/
 @media(min-width:992px)
 {
- .col-lg-4{width:33.33%;}
+ .col-lg-4{width:33%;float:left;}
 }
 /*medium devices*/
 @media(min-width:768px)and(max-width:991px)
 {
- .col-md-6{width:50%;}
+ .col-md-6{width:50%;float:left;}
  .col-md-12{clear:both}
 }
 /*small devices*/
