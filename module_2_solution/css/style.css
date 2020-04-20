@@ -3,14 +3,14 @@ h1{color:black;font-weight:bold;text-align:center;margin-bottom:35px;font-size:3
 .row{margin:10px;padding:5px;}
 .section{background-color:lightblue;padding:5px;border:solid black 1px;margin:10px;}
 .content{color:black;font-style:italic;font-size:20px;}
-.title{font-size:25px;border:solid black 1px;position:absolute;position:top right;}
+.title{font-size:25px;border:solid black 1px;position:absolute;position:top right;float:right;}
 .col-lg-4{position:relative;}
 .col-md-6{position:relative;}
 .col-md-12{position:relative;}
 .col-sm-12{position:relative;}
-#chicken{background-color:red;position:absolute ;position:top right;}
-#beef{background-color:yellow;position:absolute ;position:top right;}
-#sushi{background-color:green;position:absolute ;position:top right;}
+#chicken{background-color:red;position:absolute ;position:top right;float:right;}
+#beef{background-color:yellow;position:absolute ;position:top right;float:right;}
+#sushi{background-color:green;position:absolute ;position:top right;float:right;}
 /*large devices*/
 @media(min-width:992px)
 {
