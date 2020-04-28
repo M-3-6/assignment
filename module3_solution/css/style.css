@@ -4,4 +4,11 @@ h1{
   text-align:center;
   text-weight:bolder;
   margin-top:30px;
-  background-color:white;
+  background-color:#eee;
+}
+.navbar-brand{
+  background-color:#fff;
+  text-weight:bolder;
+  font-family:sans-serif;
+  
+}
