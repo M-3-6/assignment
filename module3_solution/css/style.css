@@ -5,6 +5,7 @@ background-color:white;
 .navbar{
 background-color:gray; 
 color:black;
+height:50px;
 }
 button{
   float:right;
