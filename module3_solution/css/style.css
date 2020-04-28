@@ -1,13 +1,15 @@
 *{box-sizing:border-box;}
 body{
-background-color:white;
+  background-color:white;
+  margin:30px;
+  padding:20px;
 }
 header{
-background-color:gray; 
-color:black;
-height:50px;
-margin:30px;
-padding:20px;
+  background-color:gray; 
+  color:black;
+  height:50px;
+  margin:30px;
+  padding:20px;
 }
 main{
   margin:30px;
