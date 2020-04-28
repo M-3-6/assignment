@@ -12,6 +12,7 @@ nav.navbar.navbar-default{
 .navbar-header a.navbar-brand{
   font-size:2em;
   color:black;
+  font-weight:bold;
   
 }
 main{
