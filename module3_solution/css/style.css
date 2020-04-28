@@ -10,9 +10,9 @@ nav.navbar.navbar-default{
   border:2px solid black;
 }
 .navbar-header a.navbar-brand{
-  font-size:1.3em;
+  font-size:2em;
   color:black;
-  font-weight:bolder;
+  
 }
 main{
   margin:30px;
