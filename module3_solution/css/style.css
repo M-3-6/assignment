@@ -10,7 +10,7 @@ height:50px;
 button{
   float:right;
 }
-.row{
+footer.row{
   margin:30px 30px 30px 30px;
   padding:20px;
   background-color:gray;
