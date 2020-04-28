@@ -7,8 +7,10 @@ nav.navbar.navbar-default{
   background-color:gray; 
   color:black;
   height:50px;
- 
+  border:2px solid black;
 }
+.navbar-brand{
+  font-size:1.1em;
 main{
   margin:30px;
   padding:20px;
@@ -28,6 +30,7 @@ footer{
 section{
   height:1000px;
   background-color:gray;
+  border: 2px solid black;
   
 h2{
   text-align:center;
@@ -35,6 +38,6 @@ h2{
   color:black;
 }
  p{
-   padding:10px;
+   padding:20px;
    font-size:0.9em;
   }
