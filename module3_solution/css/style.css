@@ -2,14 +2,14 @@
 body{
 background-color:white;
 }
-.navbar, .navbar-default{
+.navbar{
 background-color:gray; 
 }
 button{
   float:right;
 }
 .row{
-  margin:30px;
+  margin:30px auto 30px auto;
   padding:20px;
   background-color:gray;
   font-size:1.1em;
