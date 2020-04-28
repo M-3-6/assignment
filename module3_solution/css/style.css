@@ -4,6 +4,7 @@ background-color:white;
 }
 .navbar{
 background-color:gray; 
+color:black;
 }
 button{
   float:right;
@@ -18,4 +19,5 @@ button{
 h2{
   text-align:center;
   font-weight:bold;
+  color:black;
 }
