@@ -9,7 +9,7 @@ nav.navbar.navbar-default.navbar-brand.navbar-header{
   height:100px;
   border:2px solid black;
 }
-.navbar-brand{
+a.navbar-brand{
   font-size:1.1em;
   color:black;
 }
