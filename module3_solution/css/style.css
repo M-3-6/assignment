@@ -4,12 +4,11 @@ body{
   margin:30px;
   padding:20px;
 }
-header{
+header,.navbar{
   background-color:gray; 
   color:black;
   height:50px;
-  margin:30px;
-  padding:20px;
+ 
 }
 main{
   margin:30px;
