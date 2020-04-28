@@ -20,6 +20,7 @@ main{
 .btn-group{
   float:right;
   position:relative;
+  padding:10px;
 }
 .row{
   margin:30px 30px 30px 30px;
