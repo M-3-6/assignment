@@ -1,8 +1,7 @@
 *{box-sizing:border-box;}
 body{
   background-color:white;
-  margin:30px;
-  padding:20px;
+ 
 }
 header,.navbar{
   background-color:gray; 
@@ -17,12 +16,16 @@ main{
 button{
   float:right;
 }
-section.row{
+.row{
   margin:30px 30px 30px 30px;
   padding:20px;
   background-color:gray;
   font-size:1.1em;
   height:1000px;
+}
+footer,section{
+  margin:30px;
+  padding:20px;
 }
 h2{
   text-align:center;
