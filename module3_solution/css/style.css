@@ -34,3 +34,7 @@ h2{
   font-weight:bold;
   color:black;
 }
+ p{
+   padding:10px;
+   font-size:0.7em;
+  }
