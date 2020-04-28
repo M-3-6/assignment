@@ -17,8 +17,9 @@ main{
   margin:30px;
   padding:20px;
 }
-div.btn-group{
+.btn-group{
   float:right;
+  position:relative;
 }
 .row{
   margin:30px 30px 30px 30px;
