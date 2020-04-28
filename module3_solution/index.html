@@ -21,13 +21,20 @@
           <a class="navbar-brand">
           Food, LLC
           </a>
-          <button class="visible-xs" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span> 
-        <div class="icon-bar">Chicken</div>
-        <div class="icon-bar">Beef</div>
-        <div class="icon-bar">Sushi</div>
-          </button>
+          <div class="dropup">
+  <button class="visible-xs" class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Dropup
+   <span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span>
+    <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+    <li>Chicken</li>
+    <li>Beef</li>
+    <li>Sushi</li>
+    <li role="separator" class="divider"></li>
+    <li><a href="#">Separated link</a></li>
+  </ul>
+</div>
         </div>
       </div>
    </nav>
