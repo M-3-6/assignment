@@ -1,8 +1,8 @@
 body{
-background-colour:white;
+background-color:white;
 }
-header{
-background-colour:#fff; 
+div > a{
+background-color:#fff; 
 }
 button{
   float:right;
