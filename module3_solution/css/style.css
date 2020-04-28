@@ -3,7 +3,7 @@ body{
   background-color:white;
  
 }
-header,.navbar{
+nav.navbar.navbar-default{
   background-color:gray; 
   color:black;
   height:50px;
