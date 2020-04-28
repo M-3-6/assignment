@@ -3,10 +3,10 @@ body{
   background-color:white;
  
 }
-nav.navbar.navbar-default{
+nav.navbar.navbar-default.navbar-brand.navbar-header{
   background-color:gray; 
-  color:black;
-  height:50px;
+  color:darkblack;
+  height:100px;
   border:2px solid black;
 }
 .navbar-brand{
