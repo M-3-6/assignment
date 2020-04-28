@@ -1,14 +1,17 @@
-h1{
+body{
+  background-color:#fff;
   font-family:sans-serif;
+}
+h1{
   font-size: 16px;
   text-align:center;
-  text-weight:bolder;
+  font-weight:bolder;
   margin-top:30px;
  
 }
-.navbar,.navbar-default{
+.navbar,.navbar-default,navbar-brand{
   background-color:#ddd;
-  text-weight:bolder;
+  font-weight:bold;
   font-family:sans-serif;
   
 }
