@@ -10,7 +10,7 @@ nav.navbar.navbar-default{
   border:2px solid black;
 }
 .navbar-header a.navbar-brand{
-  font-size:3em;
+  font-size:2em;
   color:black;
   font-weight:bold;
   
@@ -19,7 +19,7 @@ main{
   margin:30px;
   padding:20px;
 }
-button{
+button.glyphicon{
   float:right;
   position:relative;
   padding:10px;
@@ -55,7 +55,7 @@ h2{
   background-color:gray;
   width=100%
   color:black;
-  text-aign:center;
+  text-align:center;
   padding:5px;
 }
 #nav-list a:hover{
