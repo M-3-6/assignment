@@ -51,3 +51,13 @@ h2{
    font-size:1.01em;
    overflow:hidden;
   }
+.dropdown-menu.active{
+  background-color:lightgray;
+  width=100%
+  color:black;
+  text-aign:center;
+  padding:5px;
+}
+.dropdownmenu hover{
+  backgroung-color:gray;
+}
