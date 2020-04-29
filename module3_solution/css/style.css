@@ -51,13 +51,13 @@ h2{
    font-size:1.01em;
    overflow:hidden;
   }
-#nav-list{
+ul #nav-list{
   background-color:gray;
   width=100%
   color:black;
   text-align:center;
   padding:5px;
 }
-#nav-list a:hover{
+ul #nav-list a:hover{
   background-color:lightgray;
 }*/
