@@ -23,6 +23,7 @@ button.glyphicon{
   float:right;
   position:relative;
   padding:10px;
+  margin-bottom:15px;
 }
 .row{
   margin:30px 30px 30px 30px;
