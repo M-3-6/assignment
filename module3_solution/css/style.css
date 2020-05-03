@@ -53,16 +53,21 @@ h2{
 #navlist{
     background-color: gray;
     width: 100%;
-    float:right;
-  position:relative;
     
 }
+button{
+  float:right;
+  position:relative;
 
+}
+#navlist span{
+  width:100%;
+}
 li{
     text-align:center;
     font-size:1.3em;
     
 }
-li:hover{
+#navlist li:hover{
     background: white;
 }
