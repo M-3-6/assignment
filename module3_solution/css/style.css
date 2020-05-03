@@ -48,8 +48,7 @@ h2{
    font-size:1.01em;
    overflow:hidden;
 }
-div.button{
-  padding:10px;
+div>button{
   float:right;
   position:relative;
 }
