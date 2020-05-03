@@ -48,14 +48,13 @@ h2{
    font-size:1.01em;
    overflow:hidden;
 }
-div>button{
-  float:right;
-  position:relative;
-}
+
 
 #navlist{
     background-color: gray;
     width: 100%;
+    float:right;
+  position:relative;
     
 }
 
