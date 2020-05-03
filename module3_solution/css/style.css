@@ -64,6 +64,6 @@ li{
     font-size:1.3em;
     
 }
-#navlist li:hover{
+li:hover{
     background: white;
 }
